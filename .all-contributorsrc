@@ -1,0 +1,65 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "BilelJegham",
+      "name": "Bilel Jegham",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/20130405?v=4",
+      "profile": "https://github.com/BilelJegham",
+      "contributions": [
+        "code",
+        "translation"
+      ]
+    },
+    {
+      "login": "simonrousseau",
+      "name": "Simon",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19766429?v=4",
+      "profile": "http://simonrousseau.me",
+      "contributions": [
+        "code",
+        "design",
+        "translation",
+        "review"
+      ]
+    },
+    {
+      "login": "dimfort",
+      "name": "dim.fort",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/22171924?v=4",
+      "profile": "https://github.com/dimfort",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tululum",
+      "name": "tululum",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/67554090?v=4",
+      "profile": "https://github.com/tululum",
+      "contributions": [
+        "bug",
+        "translation"
+      ]
+    },
+    {
+      "login": "BurAndBY",
+      "name": "BurAndBY",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/48630651?v=4",
+      "profile": "https://github.com/BurAndBY",
+      "contributions": [
+        "translation"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Geoguess",
+  "projectOwner": "GeoGuess",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
